@@ -6,7 +6,7 @@ This is a tool to scrape images and data from UnitedWardrobe and store it in a S
 ```
  -h, --help             Show this help message and exit
  -m, --min              Start scraping from x
- -i, --userid USERID    Only scrape user with this ID
+ -i, --userid    Only scrape user with this ID
  ```
  
  ## Data
