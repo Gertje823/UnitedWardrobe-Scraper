@@ -9,7 +9,7 @@ This is a tool to scrape images and data from UnitedWardrobe and store it in a S
  -i, --userid           Only scrape user with this ID
  ```
  
- ## Data
+ ## Data that will be scraped
  ```
  User_id
  Sold           
