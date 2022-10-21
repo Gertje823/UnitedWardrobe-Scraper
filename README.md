@@ -1,5 +1,13 @@
 # UnitedWardrobe-Scraper
 
+⚠️------- Deprecated --------⚠️  
+  
+UnitedWardrobe is now Vinted.  
+Please use [Vinted-Scraper](https://github.com/Gertje823/Vinted-Scraper)   instead.
+
+  
+⚠️------- Deprecated --------⚠️ 
+
 This is a tool to scrape images and data from UnitedWardrobe and store it in a SQLite database.
 
 ## Options
